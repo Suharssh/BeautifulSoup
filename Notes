@@ -1,1 +1,17 @@
 Beautiful Soup Notes
+
+
+Basics of html
+
+<html>
+
+</html>
+
+In any html website - The content will always be present inside the html tags. The html tags will 
+always be followed up by the <head> tag and inside this we will have the meta data and the link tag.
+The link tag is responsible for importing the styling of the website. Followed by the title tage, it
+is the text that is visible on the tab - Example in the current tab the title is "Editing BeautifulSoup
+/Notes".
+
+Now we come to the body tag, it is responsible for the contents of the website. <div> tags are used for
+styling. <script> tags are used to import some javascript library.
