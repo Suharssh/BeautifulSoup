@@ -15,3 +15,5 @@ is the text that is visible on the tab - Example in the current tab the title is
 
 Now we come to the body tag, it is responsible for the contents of the website. <div> tags are used for
 styling. <script> tags are used to import some javascript library.
+
+The <a> tag is used for creating hyperlinks through which the external links can be accessed
